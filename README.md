@@ -1,4 +1,4 @@
-I am a data scientist and data analyst, constantly working to improve my skills and learn new methods.
+I am a data scientist and data analyst, constantly working to improve my skills and learn new methods. I mainly use R and RStudio for my work.
 
 I became interested in data science and data analytics during my MSc studies in International Management, at Bocconi University.
 After working for one year as a business analyst in niche consulting startups, I decided to focus on developing as a data scientist.
