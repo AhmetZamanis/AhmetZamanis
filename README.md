@@ -5,9 +5,11 @@ After working for one year as a business analyst in niche consulting startups, I
 
 You can view my freelancer portfolio and hire me on [Upwork](https://www.upwork.com/freelancers/~01756762460f175190?).
 
-You can also view some of my example analyses on [RPubs](https://rpubs.com/AhmetZamanis/)
+You can view a catalogue of my analyses available on [Github](https://github.com/AhmetZamanis/ProjectCatalog).
 
-[LinkedIn](https://www.linkedin.com/in/ahmetzamanis/)
+You can also view some of my analyses on [RPubs](https://rpubs.com/AhmetZamanis/).
+
+[LinkedIn profile](https://www.linkedin.com/in/ahmetzamanis/)
 
 <!---
 AhmetZamanis/AhmetZamanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
