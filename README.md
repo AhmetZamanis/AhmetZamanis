@@ -9,6 +9,8 @@ You can view a catalogue of my analyses available on [Github](https://github.com
 
 You can also view some of my analyses on [RPubs](https://rpubs.com/AhmetZamanis/).
 
+[Kaggle profile](https://www.kaggle.com/ahmetzamanis)
+
 [LinkedIn profile](https://www.linkedin.com/in/ahmetzamanis/)
 
 <!---
