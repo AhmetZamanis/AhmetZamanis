@@ -1,4 +1,4 @@
-I am a data scientist, constantly working to improve my skills and learn new methods. I use R and Python for my work, mainly through RStudio and Quarto.
+I am a data scientist, constantly working to improve my skills and learn new methods. I use R and Python for my work, mainly through RStudio.
 
 I became interested in data science and machine learning during my MSc studies in International Management, at Bocconi University.
 After working for one year as a business analyst in niche consulting startups, I decided to focus on developing my skills as a data scientist.
