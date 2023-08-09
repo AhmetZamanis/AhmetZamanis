@@ -5,7 +5,7 @@ After working as a business analyst in niche consulting startups, I decided to f
 
 You can view my freelancer profile and hire me on [Upwork](https://www.upwork.com/freelancers/~01756762460f175190?s=1110580759050571776).
 
-You can view a catalogue of my projects on [Github](https://github.com/AhmetZamanis/ProjectCatalog).
+You can view a portfolio of my personal projects on my [Github page](https://ahmetzamanis.github.io/).
 
 [Kaggle profile](https://www.kaggle.com/ahmetzamanis)
 
