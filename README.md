@@ -1,4 +1,4 @@
-I am a freelance data scientist, constantly working to improve my skills and learn new methods. I use Python and R for my work, mainly through RStudio and Jupyter. I am especially focused on working with time series data.
+I am a freelance data scientist, constantly working to improve my skills and learn new methods. I mainly use Python for my work, and also have experience with R. I am especially focused on working on time series analysis & modeling.
 
 I became interested in data science and machine learning during my MSc studies in International Management, at Bocconi University.
 After working as a business analyst in niche consulting startups, I decided to focus on developing my skills as a data scientist.
