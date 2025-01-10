@@ -1,7 +1,4 @@
-I am a freelance data scientist, constantly working to improve my skills and learn new methods. I mainly use Python for my work, and also have experience with R. I am especially focused on working with time series data & models.
-
-I became interested in data science and machine learning during my MSc studies in International Management, at Bocconi University.
-After working as a business analyst in niche consulting startups, I decided to focus on developing my skills as a data scientist.
+I am a data scientist, especially interested in working with time series data & models.
 
 You can view a portfolio of my personal projects on my [Github page](https://ahmetzamanis.github.io/).
 
